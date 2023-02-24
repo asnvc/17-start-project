@@ -14,8 +14,6 @@ Original design published at: [Design](https://www.figma.com/file/uy1jUWN0N09HSA
 -   Project using Figma <br>
 -   Basic HTML(strucutre) and CSS(style)
 
-## 🧰 Getting Started
-
 ### 💻 Prerequisites
 
 Node.js - _download and install_
