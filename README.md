@@ -5,7 +5,7 @@ website design project
 ## 🌟 About
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: [Home](xzcjdvd.github.io/17-start-project/)<br>
+Site published at: [Home](https://xzcjdvd.github.io/17-start-project/)<br>
 Original design published at: [Design](https://www.figma.com/file/uy1jUWN0N09HSApvSTfb3q/FE-Start-Task?node-id=5%3A806&t=jNLdw2ONvyQHRajA-0)
 
 
