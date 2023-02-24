@@ -1,4 +1,4 @@
-# Front end test
+# Front-end test
 
 website design project
 
@@ -11,8 +11,8 @@ Original design published at: [Design](https://www.figma.com/file/uy1jUWN0N09HSA
 
 ## 🎯 Project features/goals
 
--Project using Figma
--Basic HTML(strucutre) and CSS(style)
+-   Project using Figma <br>
+-   Basic HTML(strucutre) and CSS(style)
 
 ## 🧰 Getting Started
 
@@ -56,6 +56,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Deividas: [Github](https://github.com/xzcjdvd)[LinkedIn](https://www.linkedin.com/in/deividas-asanavicius-05717925b/)
+Deividas: [Github](https://github.com/xzcjdvd)
+[LinkedIn](https://www.linkedin.com/in/deividas-asanavicius-05717925b/)
 
 ## 🔗 Other resources
