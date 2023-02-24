@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&display=swap');
+
+:root{
+--white-color:#F5F5F5;
+--green-color:#74C69D;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body,
+body *{
+    margin:0;
+    padding: 0;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Work sans', sans-serif;
+    background-color: var(--white-color);
+}
